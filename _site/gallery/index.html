@@ -1,1 +1,24 @@
 
+---
+layout: default
+---
+
+<div class="gallery-container">
+    <h1>{{ page.title }}</h1>
+    
+    <!-- Debug information -->
+    <p>Number of static files: {{ site.static_files.size }}</p>
+    
+    <div class="gallery-grid">
+        {% for image in site.static_files %}
+            <!-- Debug: Print all file paths -->
+            <p>Found file: {{ image.path }}</p>
+            
+            {% if image.path contains 'assets/images/gallery' %}
+                <div class="gallery-item">
+                    <img src="{{ site.baseurl }}{{ image.path }}" alt="{{ image.name }}">
+                </div>
+            {% endif %}
+        {% endfor %}
+    </div>
+</div>
