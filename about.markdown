@@ -4,15 +4,17 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hello, I am a Ph.D. student at [Data Analytics Laboratory (Data Lab)](http://data.research.vub.be/) at the Vrije Universiteit Brussel (VUB, Free University of Brussels - Flemish Part). I have background in Sociology (BSc from VUB) and Statistics and Data Science (MSc from KU Leuven). I am part of the inter-university project, [Ancestor's Tale: 200 years of wealth inequality and redistributive policy](https://ancestorstale.be/en#:~:text=The%20project%20%E2%80%9CAncestor's%20Tale%E2%80%9D%20studies,of%20200%20years%20in%20Belgium.). 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I am interested in **computational modeling** of complex systems and enjoy thinking about measures and metrics. Within the Ancestor's Tale project, I aim to explore the evolution of wealth mobility and dynamics in Belgium's past. My goal is to build a computational model that facilitates the exploration of various latent factors driving inequality and wealth distribution over time. I am also interested in **data visualization** and **large language models**! 
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Besides researching, I also do graphic design! For instance, I created banners to represent the research topics of my teammates at [the Data Lab website](https://data.research.vub.be/research). You can see the archive [here](/blog). 
 
+# FAQ
+## How to pronounce my name?
+*김 서린 (金栖璘)
+*Serene Kim
+*キム　セリン　
 
-[jekyll-organization]: https://github.com/jekyll
+## Links 
+[GitHub](https://github.com/SereneKim)
