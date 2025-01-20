@@ -23,7 +23,7 @@ email: seorin.kim@vub.be
 description: >- # this means to ignore newlines until "baseurl:"
   Hi! I am Serene (Seorin)! I'm a PhD student doing an interdisciplinary study at the Data Analytics Laboratory, Vrije Universiteit Brussel. 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: " https://serenekim.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: SeorinKim5
 github_username:  SereneKim
 
