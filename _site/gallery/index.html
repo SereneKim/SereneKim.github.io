@@ -14,11 +14,12 @@ layout: default
             <!-- Debug: Print all file paths -->
             <p>Found file: {{ image.path }}</p>
             
-            {% if image.path contains 'assets/images/gallery' %}
-                <div class="gallery-item">
+            {% include image-gallery.html folder="/assets/images/gallery" %}
+                <!-- <div class="gallery-item">
                     <img src="{{ site.baseurl }}{{ image.path }}" alt="{{ image.name }}">
-                </div>
+                </div> -->
             {% endif %}
         {% endfor %}
     </div>
 </div>
+
