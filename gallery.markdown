@@ -4,7 +4,6 @@ title: Gallery
 permalink: /gallery/
 ---
 
-<header class="header-background">
   {% include header.html %}
   <div>
       <article class="container mx-auto px-2 mt2 mb4">
