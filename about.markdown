@@ -14,7 +14,7 @@ Besides researching, I also do graphic design! For instance, I created banners t
 * [kr] 김 서린 (金栖璘)
 * [en] Serene Kim
 * [fr] Sé-rine Kim
-* [jp] キム　セリン　
+* [jp] キム　サリン
 
 # Links 
 [GitHub](https://github.com/SereneKim)
