@@ -4,5 +4,3 @@
 
 layout: home
 ---
-
-Download my CV.
