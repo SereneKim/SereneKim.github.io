@@ -18,3 +18,4 @@ Besides researching, I also do **graphic design**! For instance, I created banne
 
 # Links 
 [GitHub](https://github.com/SereneKim)
+[Linkedin](https://www.linkedin.com/in/serenekim/)
