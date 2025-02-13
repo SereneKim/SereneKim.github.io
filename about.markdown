@@ -8,7 +8,7 @@ Hello, I am currently pursuing a Ph.D. in **History, Sociology and Computer Scie
 
 I am interested in **computational modeling** of complex systems and enjoy thinking about measures and metrics. Within the Ancestor's Tale project, I aim to explore the evolution of wealth mobility and dynamics in Belgium's past. My goal is to build a computational model that facilitates the exploration of various latent factors driving inequality and wealth distribution over time. I am also interested in **data visualization** and **large language models**! 
 
-Besides researching, I also do **graphic design**!  For instance, I created banners for my teammates' research topics on [the Data Lab website](https://data.research.vub.be/research). You can see the archive [here](/gallery). 
+Besides researching, I also do **graphic design**!  For instance, I created banners for my teammates' research topics on [the Data Lab website](https://data.research.vub.be/research). You can see them [here](/gallery). 
 
 # How to pronounce my name?
 * [kr] 김 서린 (金栖璘)
