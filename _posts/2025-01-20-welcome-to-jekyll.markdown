@@ -7,7 +7,7 @@ categories: updates
 
 
 # Journals
-
+1. **Kim, S.**, Vanhoyweghen, A., Ryckbosch, W., & Ginis, V. (2025). Is intergenerational elasticity (IGE) a misleading measure of wealth mobility?. PloS one, 20(5), e0324266.
 
 # Preprints
 
